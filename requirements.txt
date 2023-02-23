@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+lightgbm
+matplotlib
+matplotlib-inline
+meteostat
+seaborn
